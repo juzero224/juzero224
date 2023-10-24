@@ -1,5 +1,4 @@
-# Hi, I'm Juyeong Park
+# Hi, I'm Juyeong Park :raised_hands:
 
-preDev juyeong
+- Data Analyst
 
-~readme 꾸미는 중~
